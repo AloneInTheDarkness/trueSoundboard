@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/main"
+            android:title="Общие"
+            android:onClick="All"
+            />
+        <item
+            android:id="@+id/person1"
+            android:title="dotA chatwheel1"
+            android:onClick="Per1"/>
+        <item
+            android:id="@+id/person2"
+            android:title="dotA chatwheel2"
+            android:onClick="Per2"/>
+        <item
+            android:id="@+id/person3"
+            android:title="папич"
+            android:onClick="Per3"/>
+        <item
+            android:id="@+id/person4"
+            android:title="memes"
+            android:onClick="Per4"
+            />
+        <item
+            android:id="@+id/person5"
+            android:title="Animemes"
+            android:onClick="Per5"
+            />
+    </group>
+
+    <group android:checkableBehavior="single">
+        <item
+            android:title="О программе"
+            android:onClick="oprog"
+            />
+        <item
+            android:title="Выход"
+            android:onClick="exit"
+            />
+        </group>
+
+
+
+
+</menu>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Soundboard</string>
+    <string name="title_activity_navi">playlist</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="made_by_radin_michail_v_1_0_contact_e_mail_r0676827_gmail_com">made by Radin Michail, v.1.0 contact e-mail: r0676827@gmail.com</string>
+</resources>
